@@ -19,8 +19,8 @@ This project showcases a modern, responsive features section built with pure HTM
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-using-css-flexbox-and-grid-ze1yxpaNbE)
-- Live Site URL: [Add live site URL here](https://four-card-feature-flame.vercel.app/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/four-card-feature-using-css-flexbox-and-grid-ze1yxpaNbE)
+- Live Site URL: [Click here](https://four-card-feature-flame.vercel.app/)
 
 ## My process
 
